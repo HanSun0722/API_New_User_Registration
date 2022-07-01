@@ -1,2 +1,2 @@
-# API_New_User_Registration
-Python Django coding for new users registration 
+# API-User-Registration
+ Python Django codings about users creation
